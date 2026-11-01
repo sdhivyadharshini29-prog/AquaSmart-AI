@@ -16,3 +16,13 @@
 local.properties
 .env
 debug.keystore
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment variables
+.env
