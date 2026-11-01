@@ -61,3 +61,24 @@ No actual irrigation requirement, water savings,
 or crop yield improvement has been measured.
 Field validation is still required.
 
+## Test Execution Results
+
+- Total automated tests: 35
+- Tests passed: 35
+- Tests failed: 0
+- Pass rate: 100%
+- Execution time: 0.08 seconds
+
+All 35 automated software tests passed using pytest.
+
+Note: This pass rate measures software test execution, not
+agricultural accuracy or real-world field performance.
+
+## Baseline Comparison
+
+Two automated test cases compare the preliminary AquaSmart AI
+irrigation screening with a simple soil-moisture-only baseline.
+
+The comparison demonstrates differences in rule-based outputs.
+It does not prove improved irrigation efficiency, water savings,
+or crop yield.
