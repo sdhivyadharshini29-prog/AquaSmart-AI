@@ -1,0 +1,6 @@
+{
+  "name": "AquaSmart AI",
+  "description": "Intelligent Agriculture & Horticulture Platform for precision irrigation, soil health, and paddy crop management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
